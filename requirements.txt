@@ -6,3 +6,4 @@ kagglehub
 seaborn
 tqdm
 requests
+optuna
